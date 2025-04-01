@@ -1,33 +1,36 @@
-# We are a Hackerspace
+# Jesteśmy Hackerspace
 
-A hackerspace is a physical place, run by people interested in various aspects of constructive & creative hacking. From finding ways to make your beer cold in a matter of seconds to building a do-it-yourself sms-voting-system with an old android phone.
+Hackerspace to fizyczne miejsce prowadzone przez osoby zainteresowane różnych aspektami konstruktywnego i kreatywnego hackowania. Od znalezienia sposobów na szybkie schłodzenie piwa w kilka sekund po budowę systemu do głosowania SMS za pomocą starego telefonu z Androidem.
 
-We are a breeding ground for awesome ideas. We provide a nest where those ideas can become reality. We operate by collaboration and openness. We allow people to fail, and to try again.
+Jesteśmy inkubatorem niesamowitych pomysłów. Tworzymy przestrzeń, w której te pomysły mogą stać się rzeczywistością. Działamy w duchu współpracy i otwartości. Pozwalamy ludziom popełniać błędy i próbować ponownie.
 
-## We learn from our failures
+Niniejszy dokument powstał na podstawie doświadczeń z Hackerspace Gent w Holandii. Wnioski z prowadzenia organizacji zostały przedstawione w trakcie 36-tego Chaos Communication Congress w Lipsku w 2021 roku, gdzie byliśmy też jako członkowie Hackerspace Pomorze. Od tamtego czasu ten dokument był wielokrotnie na naszych ustach, a będąc bardziej swiadomi problemów występujących w innych organizacjach, staliśmy się bardziej świadomi problemów występujących w naszej społeczności.
 
-We created our very own hackerspace in Ghent. We had two rules: be excellent to each other and decide everything by consensus. We thought normal human interaction and common sense would solve all problems. Sadly, this was not true: internal conflict almost killed our hackerspace. Instead of giving up, we decided to "Hack the Hackerspace"; we organized a number of workshops to figure out what went wrong and how to build a better hackerspace. We found that the problems could all be traced to the following root causes:
+## Uczymy się na błędach
 
-* We cannot rely on common sense because **people have different realities.**
-* **People have different, conflicting goals.** Because of that, consensus will never be reached on certain things. Problems will arise and they will not be solved.
-* **Having no solution is worse than a bad solution.** Because when problems aren't solved, they pile up until the community falls apart.
+Podobnie jak my, Hackerspace Gent miał dwie wyjściowe zasady: być dla siebie doskonałym ("Be excelent to each other!") oraz podejmować decyzje przez konsensus. Myśleliśmy, że normalne interakcje międzyludzkie i zdrowy rozsądek rozwiążą wszystkie problemy. Niestety, nie było to prawdą – wewnętrzne konflikty niemal zabiły ich hackerspace. Zamiast się poddać, Gent postanowiło "zhakować hackerspace"; zorganizowali serię warsztatów, aby zrozumieć, co poszło nie tak i jak stworzyć lepszy hackerspace. Odkryli, że problemy miały wspólne źródło:
 
-We knew that, in order to fix this, we needed a system that gets the best out of everyone and enables us to be awesome! During many late-night discussions, we fleshed out this system and wrote it down with the working title of "hack the hackerspace". This eventually became "the hackerspace blueprint", a document that describes how to run a hackerspace in a way that brings out the best in people. You can download **[the latest PDF version of this document](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.pdf).** An [epub version](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.epub) is also available for e-readers.
+* Nie możemy polegać na zdrowym rozsądku, ponieważ **każdy ma inną rzeczywistość.**
+* **Ludzie mają różne, sprzeczne cele.** Dlatego w niektórych sprawach nigdy nie osiągniemy konsensusu, co prowadzi do problemów, które pozostają nierozwiązane.
+* **Brak rozwiązania jest gorszy niż złe rozwiązanie.** Gdy problemy nie są rozwiązywane, nawarstwiają się, aż w końcu społeczność się rozpada.
 
-We have been refining this system for many years, tweaking it when we encounter new issues and explaining important parts in more details. This document specifically describes how Hackerspace Gent runs, but it is generic enough that it can be easily adapted to other hackerspaces and other self-governing organizations. Feel free to use and remix this for your own benefit, learn from our mistakes and let us know what you think of it!
+Aby to naprawić, zaprojektowali system, który wyciąga z ludzi to, co najlepsze i pozwala nam być niesamowitymi! Po wielu nocnych dyskusjach stworzyli ten system i zapisali go pod roboczym tytułem "shakuj hackerspace". Ostatecznie powstał "Hackerspace Blueprint" – dokument opisujący, jak prowadzić hackerspace w sposób, który wydobywa z ludzi ich najlepsze cechy. Możesz pobrać **[najnowszą wersję PDF tego dokumentu](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.pdf).** Dostępna jest również [wersja epub](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.epub) na czytniki e-booków.
 
-The goal of this system is to empower people to get the best out of themselves. It stimulates collaboration and enables people to think and solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil, but a flawed system is better than no system. Moreover, we continuously update this system to make it better. That is why [the hackerspace blueprint is on GitHub](https://github.com/0x20/hackerspace-blueprint). We want to make it easy for the community to contribute to it, and for other organizations to use it as a basis for their own system.
+System jest udoskonalany od lat, dostosowując go w miarę pojawiania się nowych problemów i rozwijając jego kluczowe elementy. Dokument opisuje, jak działa Hackerspace Gent, ale jest na tyle uniwersalny, że można go łatwo zaadaptować do innych hackerspace'ów i organizacji samorządnych. Zachęcamy do korzystania i modyfikowania go na własne potrzeby, uczenia się z naszych błędów i dzielenia się swoimi uwagami!
 
-# 1. Overview
+Celem tego systemu jest umożliwienie ludziom wykorzystywania własnego potencjału. Stymuluje współpracę, kreatywne myślenie i rozwiązywanie problemów. Wiemy, że ten system nie będzie idealny od początku. Wiemy, że kontrola nad ludźmi jest zła, ale wadliwy system jest lepszy niż żaden. Dlatego stale go aktualizujemy. Właśnie dlatego [Hackerspace Blueprint jest dostępny na GitHubie](https://github.com/0x20/hackerspace-blueprint). Chcemy, aby społeczność mogła łatwo wnieść swój wkład i aby inne organizacje mogły go wykorzystywać jako podstawę swojego systemu.
 
-The main system running the Hackerspace is **the do-ocracy**, explained further in Section 2. In short: If you want something done in the hackerspace, either do it yourself or convince someone else to do it for you. The goal of the do-ocracy is to lower the barrier to contributing as much as possible.
+# 1. Przegląd
 
-However, when you want to do something that is irreversible or affects the core infrastructure of the space, you can discuss it with members on a **meeting** as explained in Section 3. These meetings can also be used to make sure that people will support what you want to do.
+Głównym systemem funkcjonowania hackerspace'u jest **do-okracja**, opisana szczegółowo w sekcji 2. W skrócie: jeśli chcesz, żeby coś zostało zrobione w hackerspace, albo zrób to sam, albo przekonaj kogoś do zrobienia tego za ciebie. Celem do-okracji jest maksymalne obniżenie barier dla uczestnictwa.
 
-There are two issues that are hard to fix using do-ocracy and meetings: interpersonal conflict and core infrastructure maintenance. Section 4 explains how **the board** solves these issues as the "wardens" and "counselors" of the space. Unlike many other organizations, the board has no power over what the space should do.
+Jednak jeśli chcesz zrobić coś nieodwracalnego lub wpływającego na główną infrastrukturę przestrzeni, możesz przedyskutować to z członkami podczas **spotkania organizacyjnegi (SPORG)**, co opisano w sekcji 3. Spotkania mogą być również sposobem na zdobycie poparcia dla twojego pomysłu.
 
-Section 5 explains how you become a **member** of the space.
+Są dwa problemy, które trudno rozwiązać za pomocą do-okracji i spotkań: konflikty międzyludzkie oraz utrzymanie podstawowej infrastruktury. Sekcja 4 opisuje, jak **zarząd** rozwiązuje te kwestie jako "strażnicy" i "doradcy" przestrzeni. W przeciwieństwie do wielu innych organizacji, zarząd nie ma władzy nad tym, co hackerspace powinien robić.
 
-Every organization has a number of unspoken guidelines of how you should behave. We have written down some of ours in Section 6 in order to make it easier for people to get a sense of what to do in certain situations. These **guidelines** are not meant to be strict rules, but they give an overview of what is good and bad behavior in the space.
+Sekcja 5 opisuje, jak można zostać **członkiem** przestrzeni.
 
-Because every good idea that was once written down has been misinterpreted, we include the information that helped us create this system and the guidelines. We call it **the legacy**. It is a collection of discussions, articles, research and books that we used to create the hackerspace blueprint. It gives more context about why the system is the way it is. The legacy should by used as a "cipher" to interpret the system and the guidelines better and to explain the rationale behind them.
+Każda organizacja ma niepisane zasady dotyczące zachowania. W sekcji 6 zapisaliśmy nasze, aby ułatwić nowym osobom zrozumienie, co robić w określonych sytuacjach.
+
+Na koniec, zawarliśmy **dziedzictwo** – zbór dyskusji, artykułów, badań i książek, które pomogły nam stworzyć Hackerspace Blueprint.
+

@@ -1,53 +1,53 @@
-# 4. The Board
+# 4. Zarząd
 
-The board exists to make sure the hacker environment survives. The board members are not the leaders of the space, they are the firemen of the space. They make sure the physical space stays available and the members keep loving each other. Apart from that, the board members should be *indistinguishable* from normal members. The board members don't have any more say over the direction of the space or the projects in the space than any other member.
+Celem istnienia zarządu jest zapewnienie przetrwania środowiska hakerów. Członkowie zarządu nie są liderami danej przestrzeni, są jej strażakami. Dbają o to, aby przestrzeń fizyczna była dostępna, a członkowie nadal darzyli się miłością. Poza tym członkowie zarządu powinni być *nie do odróżnienia* od zwykłych członków. Członkowie zarządu nie mają większego wpływu na kierunek rozwoju przestrzeni lub realizowane w niej projekty niż jakikolwiek inny członek.
 
-Specifically, the board has two roles, and for everything that doesn't fall into these roles, the board members are regarded as regular members.
+Konkretnie rzecz biorąc, zarząd pełni dwie role, a we wszystkich sprawach, które nie mieszczą się w tych rolach, członkowie zarządu są traktowani jak zwykli członkowie.
 
-1. *Warden of the physical core infrastructure of the space.* This stems from [the infrastructure pattern](https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Provide a room with power, internet, a bar and [a kitchen](https://wiki.hackerspaces.org/The_Kitchen_Pattern) and the hackers will come. An important aspect of this is keeping a good relationship with the surroundings as said in [the landlord and neighborhood pattern](https://wiki.hackerspaces.org/The_Landlord_and_Neighbourhood_Pattern).
-2. *Counselor for the people in the space.* When conflict happens that can't be resolved in the group, the board is responsible for resolving the conflict. A great way to do this is [the private talk pattern](https://wiki.hackerspaces.org/The_Private_Talk_Pattern): go talk to the involved parties in private, listen to them and let them know how the group feels.
+1. *Strażnik fizycznej, centralnej infrastruktury przestrzeni.* Wynika to ze [wzorca infrastruktury](https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Udostępnij pomieszczenie z prądem, internetem, barem i [kuchnią](https://wiki.hackerspaces.org/The_Kitchen_Pattern), a hakerzy przyjdą. Ważnym aspektem jest utrzymywanie dobrych relacji z otoczeniem, o czym mowa we [wzorze relacji właściciel-sąsiedztwo](https://wiki.hackerspaces.org/The_Landlord_and_Neighborhood_Pattern).
+2. *Doradca osób w przestrzeni.* W przypadku wystąpienia konfliktu, którego nie można rozwiązać w grupie, odpowiedzialność za rozwiązanie konfliktu ponosi zarząd. Świetnym sposobem na to jest [prywatny schemat rozmów](https://wiki.hackerspaces.org/The_Private_Talk_Pattern): porozmawiaj prywatnie z zaangażowanymi stronami, posłuchaj ich i daj im znać, co sądzi o tym grupa.
 
-It's important for the board to communicate openly about what they do.
+Ważne jest, aby zarząd otwarcie informował o swoich działaniach.
 
-Both jobs are critically important to the space. Many hackerspaces disbanded because they were kicked out by their landlord and many hackerspaces fell apart because of internal conflict. It is important to get the right people in the board. **This is why the board has very little power and only in exceptional circumstances: so it doesn't attract people who want to be in power.**
+Oba zadania są niezwykle ważne dla tej przestrzeni. Wiele hackerspace’ów zostało rozwiązanych, ponieważ zostali wyrzuceni przez właściciela, a wiele rozpadło się z powodu wewnętrznych konfliktów. Ważne jest, aby w zarządzie zasiadały właściwe osoby. **Dlatego zarząd ma bardzo małą władzę i przysługuje mu tylko w wyjątkowych okolicznościach. Nie przyciąga ludzi, którzy chcą sprawować władzę.**
 
-## Why is there a board?
+## Dlaczego potrzebny jest Zarząd?
 
-There are two reasons why Hackerspace Gent has a board:
+Istnieją dwa powody, dla których Hackerspace Pomorze posiada zarząd:
 
-- A Belgian non-profit organization (VZW) requires a board which is legally liable in case something goes wrong. In the past, we had a board on paper, but the space was completely run by consensus. This caused a bunch of issues since the board was legally liable, but it didn't actually have any power to prevent bad things from happening.
-- People don't like conflict and confrontation. If nobody speaks up and nobody actively tries to resolve conflicts, people just ignore it until it explodes, taking down half the space with it. Hackerspace Gent almost disbanded after such an explosion and we vowed to never have it again. Thus, the board is responsible for speaking up and fixing conflicts, even if that is really uncomfortable.
+- Stowwarzyszenie wymaga zarządu, który ponosi odpowiedzialność prawną w przypadku wystąpienia problemów. W przeszłości mieliśmy zarząd na papierze, ale przestrzeń była zarządzana wyłącznie na zasadzie konsensusu. Spowodowało to wiele problemów, ponieważ zarząd ponosił odpowiedzialność prawną, ale tak naprawdę nie miał uprawnień, aby zapobiec zdarzeniom losowym.
+- Ludzie nie lubią konfliktów i konfrontacji. Jeśli nikt nie zabiera głosu i nikt aktywnie nie próbuje rozwiązywać konfliktów, ludzie po prostu ignorują sytuację, aż do momentu, gdy wybuchnie, zabierając ze sobą połowę przestrzeni. Hackerspace Gent omal nie został rozwiązany po takim wybuchu i przysięgliśmy, że nigdy więcej nie będziemy tego robić. Dlatego też zarząd jest odpowiedzialny za zabieranie głosu i rozwiązywanie konfliktów, nawet jeśli jest to naprawdę niekomfortowe.
 
-## What power does the board have?
+## Jaką moc ma Zarząd?
 
-The board can temporarily ban people from the space if they think it's necessary for resolving conflict and protecting the space. If they do that, they need to let the members know who is banned and why. In the next meeting, the problem has to be discussed so the members can decide on a permanent solution.
+Zarząd może czasowo zakazać użytkownikom wstępu do przestrzeni, jeśli uzna, że ​​jest to konieczne w celu rozwiązania konfliktu i ochrony przestrzeni. Jeśli to zrobi, musi poinformować członków, kto został zbanowany i dlaczego. Na następnym spotkaniu problem musi zostać omówiony, aby członkowie mogli podjąć decyzję w sprawie trwałego rozwiązania.
 
-## When should I talk to the board?
+## Kiedy powinienem porozmawiać z zarządem?
 
-When there's a fire, you call the fire department to come help you. When you want to light a huge 50 meter bonfire, you check with the fire department to see if they think it's safe.
+Gdy wybuchnie pożar, należy wezwać straż pożarną, aby udzieliła pomocy. Kiedy chcesz rozpalić ogromne, 50-metrowe ognisko, pytasz straż pożarną, czy ich zdaniem jest to bezpieczne.
 
-The same applies to the board, talk to them when there is a big issue and check with them when you do something that's part of their role (warden and counselor).
+To samo dotyczy zarządu, rozmawiaj z członkami zarządu, gdy pojawi się jakiś ważny problem, i konsultuj się z nimi, gdy robisz coś, co należy do ich obowiązków (naczelnika i doradcy).
 
-Here are some examples of when you should check with the board before you do it.
+Oto kilka przykładów sytuacji, w których należy skonsultować się z zarządem przed podjęciem decyzji.
 
-- If you're spending space money.
-- If you want to make changes to membership fees, the bar, the space shop, ...
-- If you want to make changes to the electricity, and internet.
-- If you want to make changes to the space building that affect fire safety, electrical safety, structural integrity or changes that would make the building collapse.
+- Jeśli wydajesz pieniądze na przestrzeń.
+- Jeśli chcesz dokonać zmian w opłatach członkowskich, barze, sklepie, ...
+- Jeśli chcesz dokonać zmian w dostawie prądu i internetu.
+- Jeśli chcesz dokonać zmian w budynku, które mają wpływ na bezpieczeństwo przeciwpożarowe, bezpieczeństwo elektryczne, integralność strukturalną lub zmiany, które mogłyby spowodować zawalenie się budynku.
 
-This isn't necessarily to get their approval, more to give them a chance to stop you if they think it's a bad idea. *Note: If something has been decided on a meeting with the board present, you can assume the board doesn't have any objections to it, and you can just do it.*
+Nie chodzi koniecznie o uzyskanie ich zgody, ale raczej o danie im szansy na powstrzymanie cię, jeśli uznają to za zły pomysł. *Uwaga: Jeżeli coś zostało ustalone na spotkaniu, w obecności zarządu, możesz założyć, że zarząd nie ma co do tego żadnych zastrzeżeń i po prostu to zrobić.*
 
-Moreover, if people are abusing the space, people in the space, or you, then it's best to inform the board. You're free to ask help from anyone you feel comfortable with, but it's best to also inform a board member so that they can intervene when someone harasses multiple people in private.
+Ponadto, jeśli ktoś nadużywa przestrzeni, osób w niej przebywających lub Ciebie, najlepiej poinformować o tym zarząd. Możesz zwrócić się o pomoc do kogokolwiek, z kim czujesz się komfortowo, jednak najlepiej jest poinformować również członka zarządu, aby mógł interweniować, gdy ktoś nęka więcej niż jedną osobę w prywatnej rozmowie.
 
-## Who should be in the board?
+## Kto powinien zasiadać w zarządzie?
 
-The board does not have any say about what other members are to do, and you want people in the board that like/keep it that way.
+Zarząd nie ma nic do powiedzenia na temat tego, co mają robić inni członkowie, a Ty chcesz, żeby w zarządzie byli ludzie, którym to odpowiada/niech tak pozostanie.
 
-- The "warden" role requires people who are responsible and dependable. The kind of people who say "maybe that's not such a good idea, we might get thrown out if we do that".
-- The "counselor" role requires people who are open communicators, good listeners, and good at defusing a situation.
+- Rola „strażnika” wymaga ludzi odpowiedzialnych i zależnych. Typ ludzi, którzy mówią: „może to nie jest taki dobry pomysł, bo jak to zrobimy, to możemy wylecieć”.
+- Rola „doradcy” wymaga osób, które są otwarte na komunikację, potrafią słuchać i potrafią rozładowywać sytuacje.
 
-Both roles require people who are trusted by the members, are open to feedback, and who communicate openly about what they're doing. Since a position with power is controversial (rightly so) in the hacker community, it's incredibly important that the members trust the people in the board. The board will make difficult decisions and the members need to trust that these decisions are the right ones for the space, not just the right ones for the people in the board.
+Obie role wymagają osób, którym członkowie ufają, które są otwarte na opinie i otwarcie komunikują się na temat tego, co robią. Ponieważ stanowisko wiążące się z władzą budzi (i słusznie) kontrowersje w społeczności hakerów, niezwykle ważne jest, aby członkowie zarządu ufali osobom zasiadającym w zarządzie. Zarząd będzie podejmował trudne decyzje, a członkowie muszą mieć pewność, że decyzje te są właściwe dla danego obszaru, a nie tylko dla osób zasiadających w zarządzie.
 
-## How does the board get elected and expelled?
+## W jaki sposób zarząd jest wybierany i zawieszany?
 
-During a general assembly, the members vote on electing and expelling the board according to the statutes. For more information, refer to the "Meetings" Section.
+Podczas walnego zgromadzenia członkowie głosują nad wyborem i wykluczeniem zarządu zgodnie ze statutem. Więcej informacji znajdziesz w sekcji „Spotkania”.

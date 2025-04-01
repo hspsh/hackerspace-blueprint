@@ -1,46 +1,46 @@
-# 5. Membership
+# 5. Członkostwo
 
-## How do I become a member?
+## Jak mogę zostać członkiem?
 
-1. Fill in [the membership application form](https://wiki.hackerspace.gent/Membership_form) and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, that you understand how the hackerspace works, and know how you can participate.
-2. Announce your membership application on the Changelog. Include in the message who your sponsors are.
-3. Attend a meeting and present your application. On this meeting you announce you want to become a member and who your sponsors are. If you want, you can talk a bit about why you're interested in the space. *Note: we won't discuss your membership further on this meeting and will not make any decision about it.*
-4. On a next meeting, your membership will be decided upon. It's useful to have you present at that meeting, but this is not a requirement. As a bonus for coming to the meeting, membership is often the first thing to be decided on a meeting. When you get voted in, you can join the rest of the meeting as a member! Membership decisions at a meeting follow the same process as other meeting decisions. See Chapter 3 for more info.
-5. Create an automatic bank transfer to transfer the membership fee each month. You will get your key after you made your first payment.
+1. Wypełnij [formularz wniosku o członkostwo](https://wiki.hackerspace.gent/Membership_form) i poproś trzy osoby o udzielenie Ci "okejki". Będą to osoby odpowiedzialne za dopilnowanie, abyś dobrze się zadomowił, abyś rozumiał, jak działa hackerspace i wiedział, jak możesz w nim uczestniczyć.
+2. Opublikuj swój wniosek o członkostwo w Rejestrze zmian. W wiadomości podaj informacje o swoich "okejkach".
+3. Weź udział w spotkaniu organizacyjnym i przedstaw swoją aplikację. Na tym spotkaniu ogłaszasz, że chcesz zostać członkiem i podajesz, kto dał Ci "okejkę". Jeśli chcesz, możesz powiedzieć trochę o tym, dlaczego interesuje Cię ta przestrzeń. *Uwaga: nie będziemy dalej omawiać kwestii Twojego członkostwa na tym spotkaniu i nie podejmiemy żadnej decyzji w tej sprawie.*
+4. Na następnym spotkaniu zostanie podjęta decyzja o Twoim członkostwie. Twoja obecność na spotkaniu będzie przydatna, ale nie jest to wymóg. Jako dodatkowy bonus za przybycie na spotkanie, kwestia członkostwa jest często pierwszą rzeczą, o jakiej podejmuje się decyzję. Po otrzymaniu zgody będziesz mógł uczestniczyć w pozostałej części spotkania jako członek! Decyzje dotyczące członkostwa podejmowane na spotkaniu podlegają tej samej procedurze, co inne decyzje podejmowane na spotkaniach. Więcej informacji znajdziesz w rozdziale 3.
+5. Utwórz automatyczny przelew bankowy, aby co miesiąc przesyłać opłatę członkowską. Klucz otrzymasz po dokonaniu pierwszej płatności.
 
-Why this process?
+Dlaczego ten proces?
 
-* Step #1 ensures that two people know and trust the applicant enough to vouch for them. It als ensures that the "culture" of the space gets transferred to new members.
-* Step #2 ensures everyone knows you want to become a member.
-* Step #3 ensures that the applicant understands how meetings are run and that there is some time between the applicant first arriving in the space and the applicant being voted in.
-* Step #4 ensures that there is enough support for the applicant. The meeting decision model is used for the same reasons as to why it's used for meetings: a bad solution is better than no solution.
-* Step #5 gives the new member an incentive to pay asap.
+* Krok 1 zapewnia, że trzy osoby znają i ufają wnioskodawcy na tyle, aby móc za niego poręczyć. Zapewnia także przekazanie „kultury” danej przestrzeni nowym członkom.
+* Krok nr 2 ma na celu zapewnienie, że wszyscy dowiedzą się, że chcesz zostać członkiem.
+* Krok 3 ma na celu zapewnienie, że wnioskodawca rozumie, jak przebiegają spotkania i że między pierwszym przybyciem wnioskodawcy do hackerspace a oddaniem na niego głosu upłynie pewien czas.
+* Krok 4 zapewnia, że ​​wnioskodawca otrzyma wystarczające wsparcie. Model decyzyjny dotyczący spotkań jest wykorzystywany z tych samych powodów, dla których wykorzystuje się go na spotkaniach: złe rozwiązanie jest lepsze niż żadne rozwiązanie.
+* Krok 5 daje nowemu członkowi zachętę do jak najszybszej zapłaty.
 
-*Note: If you want more context, see the `HTH_2018-11-17_membership.md` document in "the legacy" for more discussion on the membership procedure.*
+*Uwaga: Jeśli potrzebujesz więcej kontekstu, zapoznaj się z dokumentem `HTH_2018-11-17_membership.md` w „the legacy”, gdzie znajdziesz więcej informacji na temat procedury członkostwa.*
 
-## What are the responsibilities of a member?
+## Jakie są obowiązki członka?
 
-*The members create and maintain the hacker environment.*
+*Członkowie tworzą i utrzymują środowisko hakerskie.*
 
-When a conflict/problem can not be resolved between individuals, via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made on a meeting instead of by do-ocracy or individual members.
+Gdy konfliktu/problemu nie da się rozwiązać między jednostkami, poprzez dookrację lub gdy ma on wpływ na grupę, wymagana jest decyzja grupowa. Każdy członek może zażądać, aby decyzja została podjęta na spotkaniu, a nie przez radę lub poszczególnych członków.
 
-The members should do the following things as a group.
+Członkowie powinni wykonać następujące czynności jako grupa.
 
-* Create and patch the hackerspace blueprint.
-* Solve problems in the hackerspace when do-ocracy cannot fix them.
-* Electing the board during a General Assembly.
+* Stworzenie i uaktualnienie projektu hackerspace'u.
+* Rozwiązuj problemy w hackerspace, których nie potrafi naprawić dookracja.
+* Wybór zarządu podczas Walnego Zgromadzenia.
 
-*The individuals have to be excellent.*
+*Be excellent.*
 
-* Organize workshops, events, lectures.
-* Follow do-ocracy.
-* Actively try to fix problems.
-* Maintain personal safety and that of others.
-* Follow and enforce the Guidelines.
+* Organizuj warsztaty, wydarzenia, wykłady. Jednym słowem - dziel się wiedzą.
+* Postępuj zgodnie z zasadami do-okracji.
+* Aktywnie staraj się rozwiązywać problemy.
+* Dbaj o bezpieczeństwo własne i innych.
+* Przestrzegaj i egzekwój Wytyczne.
 
-## Non-members
+## Osoby niebędące członkami
 
-Non-members are also an important part of the space. They can contribute to the hacker environment and they can be potential members. However, non-members have less privileges than members.
+Osoby niezrzeszone również stanowią istotną część tej przestrzeni. Mogą wnieść swój wkład do środowiska hakerskiego i być jego potencjalnymi członkami. Jednakże osoby niezrzeszone mają mniej przywilejów niż członkowie.
 
-* Non-members are only allowed in the space when they are in company of a member. That member is responsible for the actions of the non-member.
-* Non-members have to follow the guidelines. A non-member is not allowed to challenge a decision made by the group. If the non-member disagree with a decision made by the group, then they should become a member and bring the topic forward on a meeting.
+* Osoby niebędące członkami mogą przebywać w przestrzeni wyłącznie w towarzystwie członka. Członek ten odpowiada za czyny osoby niebędącej członkiem.
+* Osoby niezrzeszone muszą stosować się do wytycznych. Osoba niebędąca członkiem grupy nie ma prawa kwestionować decyzji podjętych przez grupę. Jeśli osoba niebędąca członkiem grupy nie zgadza się z decyzją podjętą przez grupę, powinna zostać jej członkiem i poruszyć ten temat na spotkaniu.

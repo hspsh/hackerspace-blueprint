@@ -1,58 +1,58 @@
-# 2. Do-ocracy
+# 2. Do-okracja
 
-## In short
+## W skrócie
 
-* If you want something done: **Just do it!**
-* Have you done something? **Great!, now tell others about it.** Tell them what you did, and why you did it. A shared chat room or mailing list is a great place to do so. Telling other people about your actions lets them know who to thank and will give you more support.
-* If somebody complains: Either **revert it**, or work out a solution with the person who is complaining.
+* Jeśli chcesz, aby coś zostało zrobione: **Po prostu to zrób!**
+* Zrobiłeś coś? **Świetnie!, teraz opowiedz o tym innym.** Powiedz im, co zrobiłeś i dlaczego to zrobiłeś. Wspólny czat lub lista mailingowa to świetne miejsca, aby to zrobić. Opowiadając innym o swoich działaniach, pozwalają im wiedzieć, komu mają podziękować, i zapewnią ci większe wsparcie.
+* Jeśli ktoś się skarży: Albo **odwróć to**, albo wypracuj rozwiązanie z osobą, która się skarży.
 
-Do-ocracy is an organizational structure in which individuals choose to pick up roles and execute tasks by themselves, rather than getting them appointed by others. Responsibilities and authority are attached to people who do the work, rather than to the elected/selected officials. **Doing a task is in itself justification for you being the person who does that job.**
+Do-okracja to struktura organizacyjna, w której jednostki decydują się na samodzielne podejmowanie ról i wykonywanie zadań, zamiast otrzymywać je od innych. Obowiązki i autorytet przypisane są osobom, które wykonują pracę, a nie wybranym/wybranym urzędnikom. **Wykonywanie zadania samo w sobie jest uzasadnieniem tego, że to ty jesteś osobą, która wykonuje tę pracę.**
 
-## Why not Democracy or Consensus?
+## Dlaczego nie demokracja lub konsensus?
 
-Democracy and Consensus suffer from the same issue: everyone has an opinion about something, and most people like giving that opinion. In those systems, a lot of time and energy is put into debating what the best solution or the best compromise is. This results in a number of issues.
+Demokracja i konsensus cierpią z powodu tego samego problemu: każdy ma opinię na jakiś temat, a większość ludzi lubi ją wyrażać. W tych systemach poświęca się dużo czasu i energii na debatowanie nad najlepszym rozwiązaniem lub najlepszym kompromisem. Powoduje to szereg problemów.
 
-* It takes up a lot of time and energy that could be better spent actually doing stuff.
-* It's very easy for problems to not get solved because the group doesn't agree on what the best solution is. This is a big issue because **a bad solution is often better than no solution.**
-* It puts too much focus on the idea instead of its execution, even though research shows that the execution of a decision is often more important than the decision itself.
-* Group decision making often leads to diluted outcomes, that contain elements of everyone's opinion but that nobody fully supports. As a result, people will be less enthusiastic about putting time and energy into actually doing the thing. This will eventually lead to worse outcomes because the impact of a well-executed good idea is a lot better than that of a badly-executed perfect idea.
-* It rewards armchair critics and armchair activists. If the only thing you want to contribute is your opinion, you should not force other people to take that opinion into account.
-* It encourages long feedback loops: because it takes a long time to make a decision, decisions need to be as perfect as possible. This is because it will take a long time to fix any issues. The fear of a bad decision will cause longer, more elaborate debate which increases the time it takes to make a decision. Modern software development practices such as Agile, Scrum and Kanban all stress the importance of having short feedback loops.
+* Zajmuje to dużo czasu i energii, które można by lepiej wykorzystać na faktyczne działanie.
+* Bardzo łatwo jest nie rozwiązać problemów, ponieważ grupa nie zgadza się co do najlepszego rozwiązania. To duży problem, ponieważ **złe rozwiązanie jest często lepsze niż brak rozwiązania.**
+* Kładzie zbyt duży nacisk na pomysł zamiast na jego wykonanie, mimo że badania pokazują, że wykonanie decyzji jest często ważniejsze niż sama decyzja.
+* Grupowe podejmowanie decyzji często prowadzi do rozwodnionych wyników, które zawierają elementy opinii każdego, ale których nikt w pełni nie popiera. W rezultacie ludzie będą mniej entuzjastycznie nastawieni do poświęcania czasu i energii na faktyczne działanie. Doprowadzi to ostatecznie do gorszych rezultatów, ponieważ wpływ dobrze wykonanego dobrego pomysłu jest o wiele lepszy niż źle wykonanego doskonałego pomysłu.
+* Nagradza domorosłych krytyków i domorosłych aktywistów. Jeśli jedyną rzeczą, którą chcesz wnieść, jest twoja opinia, nie powinieneś zmuszać innych do brania jej pod uwagę.
+* Zachęca do długich pętli sprzężenia zwrotnego: ponieważ podjęcie decyzji zajmuje dużo czasu, decyzje muszą być tak doskonałe, jak to możliwe. Dzieje się tak, ponieważ naprawienie jakichkolwiek problemów zajmie dużo czasu. Strach przed złą decyzją spowoduje dłuższą, bardziej skomplikowaną debatę, która wydłuży czas podejmowania decyzji. Nowoczesne praktyki rozwoju oprogramowania, takie jak Agile, Scrum i Kanban, podkreślają znaczenie krótkich pętli sprzężenia zwrotnego.
 
-## How?
+## Jak?
 
-A do-ocracy naturally emerges when the environment is right. There are a number of important factors.
+Do-okracja pojawia się naturalnie, gdy otoczenie jest odpowiednie. Istnieje wiele ważnych czynników.
 
-* **Allow people to fail.** People need to feel safe knowing that they are allowed to try, and to fail. Thus, when people fail, we need to be kind and help them get better instead of berating them. The hackerspace gives everyone room to grow, and failure is part of that. For more information, read up on the idea of "blameless post-mortems" in the IT operations and DevOps communities.
-* **Ask for help and help others.**
-* **Trust each other.**
-* **Focus on what you have in common instead of what you disagree on.**
-* **Recognize and reward the people doing stuff.**
+* **Pozwól ludziom popełniać błędy.** Ludzie muszą czuć się bezpiecznie, wiedząc, że mogą próbować i popełniać błędy. Dlatego gdy ludzie ponoszą porażkę, musimy być mili i pomóc im się poprawić, zamiast ich krytykować. Hackerspace daje każdemu przestrzeń do rozwoju, a porażka jest jej częścią. Aby uzyskać więcej informacji, przeczytaj o idei „bezkarnych post-mortemów” w społecznościach operacji IT i DevOps.
+* **Proś o pomoc i pomagaj innym.**
+* **Ufajcie sobie nawzajem.**
+* **Skup się na tym, co macie wspólnego, a nie na tym, co was różni.**
+* **Doceniaj i nagradzaj osoby, które coś robią.**
 
-## Noncoercive authority
+## Autorytet bez przymusu
 
-> "Coercive power is the ability to influence someone's decision making by taking something away as punishment or threatening punishment if the person does not follow instructions."
+> „Przymusowa władza to zdolność wpływania na czyjeś podejmowanie decyzji poprzez odebranie czegoś jako kary lub grożenie karą, jeśli dana osoba nie zastosuje się do instrukcji”.
 
-Coercive power plays a big role in modern society. People do what their boss tells them because they're afraid of getting fired. People don't steal because they are afraid of punishment. It is so ingrained into our society that it's sometimes hard to realise that there are other ways to convince people to do something. However, you'll get a lot better results when people are convinced of what they do.
+Przymusowa władza odgrywa dużą rolę we współczesnym społeczeństwie. Ludzie robią to, co każe im szef, ponieważ boją się zwolnienia. Ludzie nie kradną, ponieważ boją się kary. Jest to tak głęboko zakorzenione w naszym społeczeństwie, że czasami trudno jest zdać sobie sprawę, że istnieją inne sposoby przekonania ludzi do zrobienia czegoś. Jednak uzyskasz o wiele lepsze rezultaty, gdy ludzie będą przekonani do tego, co robią.
 
-It is a misconception that, in a do-ocracy, nobody is in charge or nobody has authority. The people doing stuff have authority over that project, although the power they have is non-coercive and they lose that power when they stop doing stuff.
+To błędne przekonanie, że w do-okracji nikt nie jest odpowiedzialny ani nikt nie ma autorytetu. Ludzie, którzy coś robią, mają autorytet nad tym projektem, chociaż ich władza nie jest przymusowa i tracą ją, gdy przestają coś robić.
 
-> A do-ocratic example: 30 people are going to Burning Man and camping together. Mary asks, “What if we organize a food pool so we can all cook and eat together?” Others answer, “Sure, I’d be a part of that,” or “I can make cake on Friday night.” Soon, Mary is calling campmates to borrow pots, pans and utensils, collating different people’s dietary restrictions, collecting money for food, and organizing trips to the store to buy supplies. At camp, she posts work signup sheets for cooking and cleanup, answers questions, and fills in when others can’t (or don’t) do their shifts.
+> Przykład dookratystyczny: 30 osób jedzie na Burning Man i razem spędzają czas pod namiotem. Mary pyta: „A co jeśli zorganizujemy zbiórkę żywności, żebyśmy mogli wspólnie gotować i jeść?” Inni odpowiadają: „Jasne, wziąłbym w tym udział” lub „Mogę upiec ciasto w piątek wieczorem”. Wkrótce Mary dzwoni do współtowarzyszy obozu, aby pożyczyć garnki, patelnie i sztućce, zbiera informacje o ograniczeniach dietetycznych różnych osób, zbiera pieniądze na jedzenie i organizuje wyprawy do sklepu w celu zakupu niezbędnych rzeczy. Na obozie wywiesza listy zgłoszeń do pracy przy gotowaniu i sprzątaniu, odpowiada na pytania i wypełnia obowiązki, gdy inni nie mogą (lub nie chcą) pracować w swoich zmianach.
 
-A new campmate may grumble, “Jeez, why does Mary get to decide what everyone eats and when they work? Who put her in charge?" The answer is "the do-ocracy put her in charge". The very act of organizing the food pool puts her in charge of the food pool. She can't force you to eat the food or work a certain shift, but you have to respect her authority. This means that if you want to use the pots and pans for something different, or if you want to use the food money to order different food, you have to ask her first. However, if she disappears in the middle of the camp, leaving the food pool in disarray, she looses that authority and anyone else can step in.
+Nowy współlokator może narzekać: „Jezu, dlaczego Mary decyduje, co wszyscy jedzą i kiedy pracują? Kto ją mianuje szefową?” Odpowiedź brzmi: „to do-okracja dała jej władzę”. Sam fakt zorganizowania puli żywnościowej czyni ją odpowiedzialną za tę pulę. Nie może cię zmusić do zjedzenia posiłku ani do pracy na konkretną zmianę, ale musisz szanować jej autorytet. Oznacza to, że jeśli chcesz użyć garnków i patelni do czegoś innego, albo jeśli chcesz przeznaczyć pieniądze na jedzenie na zamówienie innego jedzenia, musisz ją najpierw o to zapytać. Jeśli jednak zniknie w środku obozu, pozostawiając w basenie z jedzeniem nieporządek, straci tę władzę i każdy inny będzie mógł wkroczyć do akcji.
 
-## Limitations
+## Ograniczenia
 
-Some things are too sensitive to be handled by do-ocracy alone, or are irreversible, like throwing things away. Refer to the Sections on the board, meetings and the guidelines for more information of when strict do-ocracy doesn't apply.
+Niektóre sprawy są zbyt delikatne, by mogły być rozwiązane wyłącznie przez dookrację, lub są nieodwracalne, jak na przykład wyrzucanie rzeczy. Aby uzyskać więcej informacji na temat sytuacji, w których ścisła zasada dookracji nie ma zastosowania, zapoznaj się z sekcjami dotyczącymi zarządu, spotkań organizacyjnych i wytycznych.
 
-In general, if an action is irreversible, do-ocracy does not apply and you should discuss it with the larger group.
+Ogólnie rzecz biorąc, jeśli działanie jest nieodwracalne, zasada dookracji nie ma zastosowania i należy omówić je z większą grupą.
 
-## A do-ocracy is not a ...
+## Do-okracja nie jest ...
 
-* **Democracy** - In a democracy, everyone has a say in what gets done. In a do-ocracy, everyone does jobs that they think need to be done, **without everyone’s input.**
-* **Meritocracy** - In a meritocracy, the most qualified people for a job are selected for that job. In a do-ocracy, whoever does the job gets it, no matter how well they’re qualified.
+* **Demokracja** - W demokracji każdy ma wpływ na to, co ma zostać zrobione. W systemie dookracji każdy wykonuje zadania, które uważa za konieczne do wykonania, **bez udziału innych.**
+* **Merytokracja** – w ramach merytokracji wybierane są osoby najbardziej wykwalifikowane do danego stanowiska. W systemie dookracji ten, kto wykonuje pracę, dostaje ją, bez względu na to, jak dobre ma kwalifikacje.
 
-## Further reading
+## Dalsza lektura
 
-* The CommunityWiki has [a thorough explanation of do-ocracy](http://www.communitywiki.org/en/DoOcracy).
-* Embassy SF talked their experience with [do-ocracy in a shared house](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
+* CommunityWiki zawiera [szczegółowe wyjaśnienie do-ocracy](http://www.communitywiki.org/en/DoOcracy).
+* Embassy SF opowiedziało o swoich doświadczeniach z [do-ocracy w domu dzielonym](https://medium.com/embassy-network/an-evolving-doocracy-3a6123f9b170).
